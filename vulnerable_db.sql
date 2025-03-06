@@ -5,4 +5,4 @@ CREATE TABLE users (
     flag VARCHAR(255)
 );
 
-INSERT INTO users (username, password, flag) VALUES ('Romeo', 'Tokiyo', 'CTF{T4chyonS4Li}');
+INSERT INTO users (username, password, flag) VALUES ('Romeo', 'Tokiyo', 'byteme{sqlscrewedupnoob#$}');
